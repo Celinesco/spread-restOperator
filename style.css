@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.ejercicio {
+    background-color: rgb(46, 45, 45);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.texto-comun {
+    color: white;
+}
+
+.palabra-reservada {
+    color: rgb(93, 223, 255);
+    margin-right: 5px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: violet;
+    font-family: 'Courier New', Courier, monospace;
+}
+.comentarios {
+    color: lightslategray;
+    margin-left: 10px;
+}
+
+.log {
+    color:greenyellow
+}
